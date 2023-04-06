@@ -1,0 +1,15 @@
+{
+    "aps": {
+        "content-available": 1
+    },
+    "data": {
+        "lat_north": "59.9347",
+        "lng_east": "10.669",
+        "lat_south": "59.9",
+        "lng_west": "10.64"
+    },
+    "alert": {
+        "title": "Viktig melding!",
+        "body": "Det brenner i Oslomarka."
+    }
+}
